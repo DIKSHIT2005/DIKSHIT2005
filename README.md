@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hey, I'm Dikshit Juneja
 
-<!--
-**DIKSHIT2005/DIKSHIT2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+                 .--.
+                |o_o |
+                |:_/ |
+               //   \ \
+              (|     | )
+             /'\_   _/`\
+             \___)=(___/
 
-Here are some ideas to get you started:
+┌───────────────────────────────────────────────┐
+│              SYSTEM INFORMATION               │
+├───────────────────────────────────────────────┤
+│ User       : Dikshit Juneja                   │
+│ Username   : DIKSHIT2005                      │
+│ Kernel     : MirAI B.Tech Student             │
+│ Education  : B.Tech CSE (AI & ML)             │
+│ Languages  : Python • JavaScript • C++        │
+│ Frameworks : Streamlit • React • Node.js      │
+│ Database   : MongoDB • MySQL                  │
+│ Interests  : AI • Machine Learning • Web Dev  │
+│ Editor     : VS Code                          │
+│ Status     : Building AI Applications         │
+│ GitHub     : github.com/DIKSHIT2005           │
+└───────────────────────────────────────────────┘
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 B.Tech CSE (AI & ML)
+- 🤖 AI & Machine Learning Enthusiast
+- 🌐 Full Stack Web Developer
+- 🐍 Python & Streamlit Developer
+- 💡 Building AI-powered applications
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=DIKSHIT2005&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DIKSHIT2005&layout=compact&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=DIKSHIT2005&theme=tokyonight)
+
+---
+
+## 🛠 Tech Stack
+
+Python • Streamlit • JavaScript • React • Node.js • MongoDB • MySQL • HTML • CSS • Git • GitHub
+
+---
+
+## 📫 Connect With Me
+
+GitHub: https://github.com/DIKSHIT2005
